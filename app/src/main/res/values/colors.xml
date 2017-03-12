@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFD782</color>
+    <color name="colorPrimaryDark">#7b6037</color>
+    <color name="colorAccent">#7b6037</color>
+    <color name="ice_coffee">#FFEFCC</color>
+    <color name="milk_coffeee">#FFE6B2</color>
+    <color name="peanut_coffee">#FFD782</color>
+    <color name="carmel_coffee">#bf9656</color>
+    <color name="cacao_coffee">#534125</color>
+
+    <!-- transparent BGs -->
+    <color name="bg_zero">#0000</color>
+    <color name="bg_cream">#80FFEFCC</color>
+    <color name="bg_ice">#60FFFAEE</color>
+    <color name="bg_carmel">#E0FFD782</color>
+    <color name="bg_toffee">#D0bf9656</color>
+    <color name="bg_chocko">#E07b6037</color>
+</resources>

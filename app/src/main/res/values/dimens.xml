@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Button sizes -->
+    <dimen name="quant_button_width">50dp</dimen>
+    <dimen name="quant_button_height">35dp</dimen>
+    <dimen name="quant_button_spacing">8dp</dimen>
+    <dimen name="action_button_width">80dp</dimen>
+    <dimen name="action_button_height">35dp</dimen>
+
+    <!-- Paddings -->
+    <dimen name="enter_name_padding">8dp</dimen>
+    <dimen name="topping_padding">24dp</dimen>
+
+    <!-- Text dimens -->
+    <dimen name="text_spacing">8dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+
+    <!-- Toast custom dimens -->
+    <dimen name="corner_radius">30dp</dimen>
+    <dimen name="stroke_size">1dp</dimen>
+    <dimen name="toast_height">40dp</dimen>
+    <dimen name="icon_size">32dp</dimen>
+    <dimen name="icon_space">4dp</dimen>
+    <dimen name="toast_text_offset">16dp</dimen>
+</resources>

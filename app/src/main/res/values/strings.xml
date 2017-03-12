@@ -1,0 +1,28 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee TURBO order maker</string>
+    <!-- Frontend Strings-->
+    <string name="name_hint">Type your name here</string>
+    <string name="head_quantity">Quantity</string>
+    <string name="head_topping">Topping</string>
+    <string name="cream">Whipped cream - $1</string>
+    <string name="pepsi">Pepsi dash - $1</string>
+    <string name="chocko">Chockolate flood - $2</string>
+    <string name="head_summary">Order Summary</string>
+    <string name="hint_summary">[CHECK] - See the summary\n[SEND]    - Submit your order</string>
+
+    <!-- Backend SUMMARY Strings-->
+    <string name="summary_divider" translatable="false">\n--------------------</string>
+    <string name="summary_name">Name: <xliff:g id="name">%s</xliff:g></string>
+    <string name="summary_cream">\nWhipped cream: <xliff:g id="whippedState">%s</xliff:g></string>
+    <string name="summary_pepsi">\nPepsi dash: <xliff:g id="pepsiState">%s</xliff:g></string>
+    <string name="summary_choco">\nChockolate flood: <xliff:g id="chockoState">%s</xliff:g></string>
+    <string name="summary_quantity">\nQuantity: <xliff:g id="quantity">%s</xliff:g></string>
+    <string name="summary_total">\nTotal: $<xliff:g id="quantity">%s</xliff:g></string>
+    <string name="summary_thanks">\nThank you!</string>
+    <string name="summary_order_for">Coffee Turbo order for </string>
+
+    <!-- Backend TOAST Strings (!) CHAR LIMIT = 43(45)-->
+    <string name="toast_tinyorder">No coffees? We recommend at least one!</string>
+    <string name="toast_bigorder">Woah, so many coffees! Call us to get more.</string>
+
+</resources>

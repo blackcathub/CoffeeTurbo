@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Coffee TURBO zamów kawę</string>
+    <string name="chocko">Czekoladowy potop - $2</string>
+    <string name="cream">Biczowany krem - $1</string>
+    <string name="pepsi">Uderzenie pepsi - $1</string>
+    <string name="name_hint">Wpisz swoje imię</string>
+    <string name="hint_summary">[CHECK] - Zobacz podsumowanie\n[SEND]    - Prześlij zamówienie</string>
+    <string name="head_topping">Dodatki</string>
+    <string name="head_summary">Podsumowanie zamówienia</string>
+    <string name="head_quantity">Ilość</string>
+    <string name="summary_choco">\nCzekoladowy potop: <xliff:g id="chockoState">%s</xliff:g></string>
+    <string name="summary_cream">\nBiczowany krem: <xliff:g id="whippedState">%s</xliff:g></string>
+    <string name="summary_name">Imię: <xliff:g id="name">%s</xliff:g></string>
+    <string name="summary_order_for">"Coffee Turbo zamówienie dla "</string>
+    <string name="summary_pepsi">\nUderzenie pepsi: <xliff:g id="pepsiState">%s</xliff:g></string>
+    <string name="summary_quantity">\nIlość: <xliff:g id="quantity">%s</xliff:g></string>
+    <string name="summary_thanks">\nDziękujemy!</string>
+    <string name="summary_total">\nŁącznie: $<xliff:g id="quantity">%s</xliff:g></string>
+    <string name="toast_bigorder">To całkiem sporo kawy! Zadzwoń do nas.</string>
+    <string name="toast_tinyorder">Ani jednej? Spróbuj, są świetne!</string>
+
+</resources>
