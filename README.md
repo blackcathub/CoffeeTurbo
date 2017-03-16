@@ -1,4 +1,4 @@
-# Coffee Turbo order maker
+# Coffee Turbo Order Maker _[CoffeeTurbo]_ 
 >`PRACTICE PROJECT` for Googles Udacity Android Developement Course
 
 Coffee Turbo order maker is my practice project for a part of Android Development Scholarship that's focused on getting more experience in working with Java. The aim of this project was to create an app that can be used to order coffee in a care/restaurant.
